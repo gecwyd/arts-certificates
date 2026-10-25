@@ -77320,5 +77320,23 @@
   "digest": "573774375621ee43492e34d9ba91c6d6eb85c784cc4b74e511e66d30ba05aad9",
   "signature": "zJKczwOfiaW7quWOP36+sjF3L4Ody0bhPfEOOoQ80gJjg0zy7FO1d5S2NKu0KoVr3VmbkDXHJh/St7Jv00oJAQ==",
   "kid": "a7b81e316add11bb"
+ },
+ {
+  "date": "30 September 2026",
+  "duty": "",
+  "kind": "participation",
+  "name": "Adhil Muhammed K",
+  "rank": "",
+  "time": "9:30 am IST",
+  "event": "short story malayalam",
+  "regNo": "23b139",
+  "number": "TH26-004627",
+  "eventId": "uEYWUW4y4NtzilCtEgpj",
+  "issuedAt": "2026-10-25T13:49:07.117Z",
+  "semester": 7,
+  "department": "CSE",
+  "digest": "26e3f27737a2dea8e9593cbe693dbab743c302aa92e563c7ff3a9f454f16e4fa",
+  "signature": "KnJFo1xvBH0nnOmtS0pCZUWqvuREfxdNTxkaN4VryC1uwJjeqdJGQgCUAys+XPuFpWikDXx1qD90JlGr277gCg==",
+  "kid": "a7b81e316add11bb"
  }
 ]
