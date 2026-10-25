@@ -78479,5 +78479,24 @@
   "digest": "8004a0a9d19ce685aeb85910ee5f1ec51df11c3eea4122c79555d5366cf22e69",
   "signature": "2D3pO8O5pRQ0SspcPsXvVpumpuefA8c42v3Fq2vTI/a6DiQGY37aHqmoORp0xPqc8ARaZ5ln8aTkZzs+d1noAQ==",
   "kid": "a7b81e316add11bb"
+ },
+ {
+  "date": "30 September 2026",
+  "duty": "",
+  "kind": "participation",
+  "name": "Lefin Muhammed",
+  "rank": "",
+  "time": "2:30 pm IST",
+  "event": "ESSAY WRITING ENGLISH",
+  "regNo": "24b286",
+  "number": "TH26-004692",
+  "eventId": "kZMLE38RvfjE4QzK3U0S",
+  "issuedAt": "2026-10-25T16:12:50.525Z",
+  "semester": 5,
+  "department": "EC2",
+  "supersedes": "TH26-001243",
+  "digest": "2881d6843041847cb93d30911dda15de872e88bd3430eab6fbeb8af7ae6dc721",
+  "signature": "QwOlHicJU1YuxMHlyGFyur8YeYGZ/e+Hvrz2t9XlpQMwTfOlOduzhSQeeppUSmzcYzgUer77iAZ3azjpkzaOCQ==",
+  "kid": "a7b81e316add11bb"
  }
 ]
