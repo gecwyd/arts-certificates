@@ -2,8 +2,8 @@
  "app": "thouryathrikam-certificates",
  "schema": 2,
  "prefix": "TH26",
- "count": 4275,
- "generatedAt": "2026-10-25T16:12:50.525Z",
+ "count": 4280,
+ "generatedAt": "2026-10-26T08:23:30.605Z",
  "kinds": {
   "participation": "Participation",
   "screening": "Screening",
