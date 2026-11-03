@@ -85366,5 +85366,24 @@
   "digest": "551ef848a250194fd6f8402f503097c934320a6e6a6b9b445f3bbf5bc8a31300",
   "signature": "EW8uiScQVgV6UaR0I1ZIo8SyzII5Pic/3eD/IFr/OcGW6ZiIKh7Np1OHGgWBu/9Q0qdwMl0CMAbVKswu+/dbCQ==",
   "kid": "a7b81e316add11bb"
+ },
+ {
+  "date": "",
+  "duty": "Registration",
+  "kind": "volunteer",
+  "name": "Muhammed Hisham VK",
+  "rank": "",
+  "time": "",
+  "event": "",
+  "regNo": "24b417",
+  "number": "TH26-005073",
+  "eventId": null,
+  "issuedAt": "2026-11-03T12:19:14.133Z",
+  "semester": 5,
+  "department": "ME",
+  "supersedes": "TH26-004861",
+  "digest": "017ccbd39b333abaf81871254a64babbc37e271192df4568f9e438d2d5c2abeb",
+  "signature": "D7zYbeDiamg+9BMA7/57GC7rYdfRkXHtnevAXsQyBj4fP9+1vkzAViuEvA6ws8MFFGYcj6IT+vXkjcdZ8Q4DCA==",
+  "kid": "a7b81e316add11bb"
  }
 ]
